@@ -1,2 +1,2 @@
 # Task1_Webdesigning
-This os a new repository of the task
+This is a new repository for the task
